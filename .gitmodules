@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/bi_pos_multi_currency"]
+	path = Integrated-Path/bi_pos_multi_currency
+	url = git@github.com:Integrated-Path/bi_pos_multi_currency.git
+	branch = 15-mikesport
